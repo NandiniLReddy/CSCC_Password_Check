@@ -67,8 +67,6 @@ def main():
 
     st.title("Password Strength Checker")
 
-    st.title("Password Strength Checker")
-
     username = st.text_input("Enter your username:")
     address = st.text_input("Enter your address:")
     country = st.text_input("Enter your country:")
